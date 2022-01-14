@@ -1,2 +1,2 @@
 const lab1 = "git";
-const name = "YaoYuan";
+const name = "YaoYuan Tang";
